@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color:white;
+}
+h1{
+    font-family:sans-serif;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+hr{
+    width:420px;
+    border-width:5px;
+    border-style:dotted none none;
+    border-color:#16FF00;
+    background-color: black;
+
+}
+img{
+    width:490px;
+    height:300px;
+    background-color: black;
+}
+table{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body
+{
+    background-image:url("starst.gif");
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+
+}
